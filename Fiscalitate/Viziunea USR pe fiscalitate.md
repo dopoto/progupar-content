@@ -1,14 +1,22 @@
+## Introducere
 USR consideră că România poate ajunge la o creștere economică sustenabilă prin "reducerea taxării muncii și a impozitului pe profitul reinvestit, încurajarea investițiilor productive și restructurarea din temelii a ANAF, probabil una dintre cele mai corupte instituții din România, de la bază până la vârf".
 
-Măsuri care ar reduce povara fiscală de la 45-50% la 35% și care ar permite creșteri salariale nete de aproximativ 20%
+## Măsuri
+Măsuri care ar reduce povara fiscală de la 45-50% la 35% și care ar permite creșteri salariale nete de aproximativ 20%:
 
-    Scutire de impozit pe venit până la un salariu minim pentru toți angajații
-    CAS (contribuția pentru pensie) progresiv în funcție de vârstă. Forța de muncă tânără trebuie să rămână în România și să revină în România. Vor fi reduse taxele pe muncă, astfel încât CAS-ul să crească treptat în funcție de vârstă. Astfel tinerii până la vârsta de 21 de ani vor fi scutiți de CAS și vor începe să contribuie gradual la pensie după vârsta de 21 de ani. Contribuția obligatorie pentru pensii se va mări cu 5% pentru fiecare an până la cota standard de 25% (21 ani - 5%, 22 ani - 10%, 23 ani - 15%, 24 ani - 20%, peste 24 ani - 25%). O astfel de măsură ar trebui să ajute la integrarea de la început a tinerilor pe piața muncii oficială și aceștia nu ar mai trebui să mai plătească decât 10% CASS și 10% impozit pe venit
-    Reducerea CAS, pe termen mediu, la 20%
-    Scutire de impozite și contribuții pentru al doilea job
-    50% reducere impozite și contribuții în primii 3 ani pentru angajații care se întorc din Diaspora sau care își mută domiciliul în România la cel puțin 150 km distanță față de un nou angajator
-    Scutire impozite și contribuții pentru ucenici / elevi în filiera profesională (dacă angajatorul oferă cursuri încorporate în programa de bacalaureat profesional, conform propunerilor USR pentru reforma educației)
-    Scutirea supra-impozitării muncii cu normă parțială
+- Scutire de impozit pe venit până la un salariu minim pentru toți angajații CAS (contribuția pentru pensie) progresiv în funcție de vârstă. Forța de muncă tânără trebuie să rămână în România și să revină în România. 
+
+- Vor fi reduse taxele pe muncă, astfel încât CAS-ul să crească treptat în funcție de vârstă. Astfel tinerii până la vârsta de 21 de ani vor fi scutiți de CAS și vor începe să contribuie gradual la pensie după vârsta de 21 de ani. 
+
+- Contribuția obligatorie pentru pensii se va mări cu 5% pentru fiecare an până la cota standard de 25% (21 ani - 5%, 22 ani - 10%, 23 ani - 15%, 24 ani - 20%, peste 24 ani - 25%). O astfel de măsură ar trebui să ajute la integrarea de la început a tinerilor pe piața muncii oficială și aceștia nu ar mai trebui să mai plătească decât 10% CASS și 10% impozit pe venit
+
+- Reducerea CAS, pe termen mediu, la 20%
+
+- Scutire de impozite și contribuții pentru al doilea job
+
+- 50% reducere impozite și contribuții în primii 3 ani pentru angajații care se întorc din Diaspora sau care își mută domiciliul în România la cel puțin 150 km distanță față de un nou angajator
+- Scutire impozite și contribuții pentru ucenici / elevi în filiera profesională (dacă angajatorul oferă cursuri încorporate în programa de bacalaureat profesional, conform propunerilor USR pentru reforma educației)
+- Scutirea supra-impozitării muncii cu normă parțială
 
 Măsuri fiscale ”țintite” care ar duce la creștere cu 50% a ratei de investiții productive în economie și la reducerea cu cel puțin 50% a gradului de emigrare
 
