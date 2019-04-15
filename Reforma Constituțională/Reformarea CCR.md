@@ -1,8 +1,6 @@
-##7 soluții pentru o instanță constituțională depolitizată
+## 7 soluții pentru o instanță constituțională depolitizată
 
-Juriștii Uniunii Salvați România, senatorul George Dircă, deputatul Silviu Dehelean, deputatul Stelian Ion și candidatul USR la alegerile europarlamentare Vlad Gheorghe, aflați în prima linie de  apărare a justiției și a statului de drept în Parlamentul României propunem reformarea Curții Constituționale.
-
-Conștienți de faptul că prevederile constituționale care reglementează organizarea și funcționarea Curții Constituționale s-au dovedit falimentare și au permis transformarea CCR într-un instrument obedient în mâna politicienilor, înțelegând importanța acestei instituții fundamentale pentru buna funcționare a democrației, propunem o reformă a Curții  Constituționale echilibrată, în care niciuna dintre puteri să nu le poată domina pe celelalte, iar latura tehnico-juridică a Curții Constituționale să nu fie subminată de latura sa politică.
+Conștienți de faptul că prevederile constituționale care reglementează organizarea și funcționarea Curții Constituționale s-au dovedit falimentare și au permis transformarea CCR într-un instrument obedient în mâna politicienilor, înțelegând importanța acestei instituții fundamentale pentru buna funcționare a democrației, propunem o reformă a Curții Constituționale echilibrată, în care niciuna dintre puteri să nu le poată domina pe celelalte, iar latura tehnico-juridică a Curții Constituționale să nu fie subminată de latura sa politică.
 
 În prezent, Curtea Constituțională se compune din nouă judecători, trei fiind numiți de Camera Deputaților, trei de Senat și trei de Președintele României. Numirile sunt făcute exclusiv de politicieni, legislativul numind 2/3 din totalul judecătorilor CCR, iar puterea judecătorească nu are niciun rol în procedura de numire. Dominația legislativului asupra celorlalte puteri, din perspectiva numirilor judecătorilor constituționali, este evidentă.
 
