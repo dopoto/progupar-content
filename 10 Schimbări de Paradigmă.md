@@ -1,4 +1,5 @@
-10 Schimbări de Paradigmă
+## Zece Schimbări de Paradigmă
+
 1.  Facem România să devină cea mai prietenoasă țară din Uniunea Europeană pentru investiții și despovărăm cetățenii de greutățile fiscale și birocratice. O economie prosperă care să încurajeze acumularea de capital poate face tinerii nu doar să nu mai plece din țară, ci și să se întoarcă să creeze valoare în România. Vom schimba filozofia de reglementare a statului astfel încât întreprinderile mici să aibă obligații birocratice și fiscale reduse.
 
 2. Construim un sistem de educație care să pună nevoile copiilor pe primul loc și să dea mai multă putere părinților. Vom investi în calitatea școlilor publice și vom deschide ușile concurenței și antreprenoriatului, capabil să ofere cât mai multe alternative, spre beneficiul copiilor.
