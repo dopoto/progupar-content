@@ -8,10 +8,7 @@ Pentru aceste motive propunem ca toate puterile din stat să contribuie la numir
 
 Concret, propunem:
 
-I. Creșterea numărului de judecători ai Curții la doisprezece, cu vot decisiv la președintele CCR
-a. șase judecători să fie aleși de magistrați prin scrutin general,
-b. trei să fie numiți de Președinte,
-c. trei să fie aleși de Parlament, cu votul a 2/3 din numărul tuturor parlamentarilor;
+I. Creșterea numărului de judecători ai Curții la doisprezece, cu vot decisiv la președintele CCR. Aceștia să fie aleși de magistrați prin scrutin general.
 
 II. Interzicerea ocupării funcției de judecător constituțional de către persoane care au fost membri în partide politice în ultimii 9 ani, anteriori numirii/alegerii;
 
